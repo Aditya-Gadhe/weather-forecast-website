@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    height: 100vh;
+    background-image: url(pexels-pixabay-259698.jpg);
+    background-position: center;
+    background-size: cover;
+}
